@@ -5,3 +5,7 @@ This is a simple code for "pizza ordering" assignment to my Computer Science cla
 The is written like that, because of the instructions
 
 The code may change, as we go further in the course
+----------------------------------------------------------------------------------
+
+This repository is only for showing my process in my studies as I go further and further. 
+
